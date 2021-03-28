@@ -3,7 +3,7 @@
 
 #### Data Scientist and Machine Learning Scientist
 
-I am critical in thinking when it comes to presenting ideas and pulling up solution to a particular problem. I like working with innovative teams.
+I am critical in thinking when it comes to presenting ideas and pulling up solution to a particular problem. I enjoy building models and creating solution from data insight.
 
 Skills: 
 * Machine learning
