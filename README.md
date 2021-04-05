@@ -1,4 +1,5 @@
 
+https://github.com/Emmascholar/emotion_detection/blob/main/passport2.jpg
 (https://media-exp1.licdn.com/dms/image/C5635AQGAqldDY1r7nA/profile-framedphoto-shrink_200_200/0/1614176951044?e=1617033600&v=beta&t=g07eRIYlVm0UIqxY4ic1_yE1jFWJWnS1KJ7jf5szWxI)
 
 #### Data Scientist
