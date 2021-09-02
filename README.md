@@ -5,7 +5,7 @@
 
 #### PROFILE SUMMARY
 
-I am critical in thinking when it comes to presenting ideas and pulling up solution to ANY problem. I enjoy building models and creating solution from data insight. My research is wrapped on Natural Language processing, Finance and Business.
+I am critical in thinking when it comes to presenting ideas and pulling up solution to ANY problem. I enjoy building models and creating solution from data insight. My research is wrapped on Natural Language processing, Health Care and Technology.
 
 SKILLS: 
 * Machine learning
